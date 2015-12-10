@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document>
+	<ChannelList channel_name="ImmortalsDN">
+		<Local local_name="DE_Aurora">
+			<version addr="http://68.64.164.86/versions/ImmortalsDN/"/>
+			<update addr="http://68.64.164.86/versions/update/patchlist/"/>
+			<guidepage addr="https://raw.githubusercontent.com/ImmortalsDN/IDNUpdate/master/index.txt"/>
+			<homepage addr="https://www.facebook.com/groups/1528319434158897"/>
+			<login addr="68.64.164.86" port="1933"/>
+		</Local>
+	</ChannelList>
+</document>
